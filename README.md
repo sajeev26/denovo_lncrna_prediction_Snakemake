@@ -105,8 +105,8 @@ If your rules use conda environments, execute the workflow with `--use-conda`; t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sajeev26/denovo_lncrna_prediction_-Snakemake-.git
-cd denovo_lncrna_prediction
+git clone https://github.com/sajeev26/denovo_lncrna_prediction_Snakemake.git
+cd denovo_lncrna_prediction_Snakemake
 ```
 
 ### 2. Add RNA-seq accessions
