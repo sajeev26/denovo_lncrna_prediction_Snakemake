@@ -3,7 +3,7 @@
 
 rule download_sra:
     input:
-        "data/sra.txt"
+        "data/example_sra.txt"
     output:
         temp("results/raw/{id}_1.fastq.gz"),
         temp("results/raw/{id}_2.fastq.gz")
